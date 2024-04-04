@@ -1,5 +1,5 @@
 {
-    "name": "slm/queue",
+    "name": "rnd-cosoft/queue",
     "description": "Laminas module that integrates with various queue management systems",
     "license": "BSD-3-Clause",
     "type": "library",
